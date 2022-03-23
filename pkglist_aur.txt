@@ -1,6 +1,7 @@
 android-studio
 cura-fdm-materials-git
 google-chrome
+kindd
 ly
 megasync
 ncpamixer
